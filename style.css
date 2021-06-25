@@ -1,0 +1,12 @@
+#game{
+    text-align:center;
+    font-style:italic;
+  }
+  body{
+    text-align:center;
+    background-color:greenyellow;
+  }
+  #play{
+    width:719px;
+    height:600px;
+  }
